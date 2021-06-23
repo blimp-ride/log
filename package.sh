@@ -2,6 +2,8 @@
 # Terminal Logging.
 #
 
+#=import color
+
 declare -i \
   LOG_LEVEL_FATAL=0 \
   LOG_LEVEL_ERROR=10 \
